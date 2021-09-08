@@ -1,0 +1,13 @@
+C:\Users\ПК\source\repos\4rab\4rab\obj\Debug\netcoreapp3.1\4rab.csprojAssemblyReference.cache
+C:\Users\ПК\source\repos\4rab\4rab\obj\Debug\netcoreapp3.1\4rab.AssemblyInfoInputs.cache
+C:\Users\ПК\source\repos\4rab\4rab\obj\Debug\netcoreapp3.1\4rab.AssemblyInfo.cs
+C:\Users\ПК\source\repos\4rab\4rab\obj\Debug\netcoreapp3.1\4rab.csproj.CoreCompileInputs.cache
+C:\Users\ПК\source\repos\4rab\4rab\bin\Debug\netcoreapp3.1\4rab.exe
+C:\Users\ПК\source\repos\4rab\4rab\bin\Debug\netcoreapp3.1\4rab.deps.json
+C:\Users\ПК\source\repos\4rab\4rab\bin\Debug\netcoreapp3.1\4rab.runtimeconfig.json
+C:\Users\ПК\source\repos\4rab\4rab\bin\Debug\netcoreapp3.1\4rab.runtimeconfig.dev.json
+C:\Users\ПК\source\repos\4rab\4rab\bin\Debug\netcoreapp3.1\4rab.dll
+C:\Users\ПК\source\repos\4rab\4rab\bin\Debug\netcoreapp3.1\4rab.pdb
+C:\Users\ПК\source\repos\4rab\4rab\obj\Debug\netcoreapp3.1\4rab.dll
+C:\Users\ПК\source\repos\4rab\4rab\obj\Debug\netcoreapp3.1\4rab.pdb
+C:\Users\ПК\source\repos\4rab\4rab\obj\Debug\netcoreapp3.1\4rab.genruntimeconfig.cache
